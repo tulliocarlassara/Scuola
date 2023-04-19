@@ -1,6 +1,10 @@
 # Trasformatore reale
 
-Dallo schema equivalente del trasformatore, noti $\dot e_1$ ed $\dot e_2$ (in relazione tra loro tramite il rapporto spire $m = {\dot e_1 \over \dot e_2} $), è facile ricavare:
+<p align="center">
+  <img src="immagine_trasformatore.svg" />
+</p>
+
+Dallo schema equivalente del trasformatore, noti $\dot e_1$ ed $\dot e_2$ (in relazione tra loro tramite il rapporto spire $m = {{N_1} \over {N_2}}={\dot e_1 \over \dot e_2} $), è facile ricavare:
 
 $$
 \dot I_2 ={\dot e_2 \over {R_2+jX_2+\dot Z}} \tag{1}
@@ -28,7 +32,7 @@ $$
 
 ### Relazione tra le tensioni al primario e al secondario
 
-Nel caso sia fornita $\dot V_1$ e venga richiesto di ricavare $\dot V_2$ risulta necessario combinare le formule sopraesposte:
+Nel caso sia fornita $\dot V_1$ e venga richiesto di ricavare $\dot V_2$ risulta necessario combinare le formule sopraesposte.
 
 Dalla (6) con alcune sostituzioni si ricava:
 

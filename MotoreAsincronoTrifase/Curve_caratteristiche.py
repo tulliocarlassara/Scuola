@@ -1,6 +1,8 @@
 import matplotlib.pyplot as plt
 from matplotlib import cm
 import numpy as np
+import warnings
+warnings.filterwarnings("ignore") #scorciatoia per non gestire le divisioni per 0
 
 #dati motore
 f = 50     #[Hz]
